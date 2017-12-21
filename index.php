@@ -45,8 +45,6 @@
     
        <main>
 
-        <?php echo "oui" ?>
-
         <form action="traitement.php" method="post">
             <input type="email" name="email" placeholder="Entrez votre email .." />
             <input type="password" name="password" placeholder="Entre votre password ..">
